@@ -3,7 +3,7 @@ require_relative 'lib/Dev_to_web_scraper/version'
 Gem::Specification.new do |spec|
   spec.name          = "Dev_to_web_scraper"
   spec.version       = DevToWebScraper::VERSION
-  spec.authors       = ["Joran"]
+  spec.authors       = ["Jordan"]
   spec.email         = ["jordanalireed@icloud.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
